@@ -379,9 +379,7 @@ textarea{
     
     .navber-items ul li{
         padding: 7px;
-        
-
-    }
+         }
     .main-container{
         width: 100%;
         margin: auto;
@@ -389,6 +387,7 @@ textarea{
      .img-bg img{
         position: relative;
         height: 300px;
+         margin: 0%;
         width: 100%;
      }
    .content{
