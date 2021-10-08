@@ -381,16 +381,15 @@ textarea{
     }
     
     .navber-items ul li{
-        padding: 5px;
-        background-color: blanchedalmond;
-        color: black;
+        padding: 15px;
+        
         }
     .main-container{
         width: 100%;
         margin: auto;
      }
      .img-bg img{
-        height: 150px;
+        height: 200px;
         width: 100%;
      }
    .content{
